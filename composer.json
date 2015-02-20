@@ -1,0 +1,19 @@
+{
+  "repositories":[
+    {
+      "type": "composer",
+      "url": "http://wpackagist.org"
+    }
+  ],
+  "require": {
+    "hhvm": "~3.3",
+    "wpackagist-plugin/wp-bitly": "2.3.2",
+    "wpackagist-plugin/advanced-custom-fields": "4.4.0",
+    "wpackagist-plugin/advanced-permalinks": "0.1.21",
+    "wpackagist-plugin/ap-gravatars": "1.0",
+    "wpackagist-plugin/json-api": "1.1.1",
+    "wpackagist-plugin/wp-bitly": "2.3.2",
+    "wpackagist-plugin/wp-htaccess-editor": "1.3.0",
+    "wpackagist-plugin/wp-sendgrid": "2.1.0"
+  }
+}

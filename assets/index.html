@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <!-- Always force latest IE rendering engine (even in intranet) &amp; Chrome Frame-->
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link href="/assets/css/site.css" media="all" rel="stylesheet" type="text/css">
+    <title>Adorable.io</title>
+  </head>
+  <body>
+    <script type="text/x-handlebars">
+      <div id="main-content">
+        <div class="ember-view">{{render "navigation" navigation}}</div>
+        <div id="main" role="main" class="ember-view">{{outlet}}</div>
+        <div class="ember-view">{{partial "footer"}}</div>
+      </div>
+    </script>
+    <script src="/assets/js/templates.js"></script>
+    <script src="/assets/js/app.js"></script>
+  </body>
+</html>
