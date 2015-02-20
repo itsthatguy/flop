@@ -1,0 +1,128 @@
+# Allows multiple permalink structures, migration of permalinks without redirections, permalinks for posts in specific categories, and categories without a base
+# Copyright (C) 2007 John Godley
+# This file is distributed under the same license as the Advanced Permalinks package.
+# John Godley, http://urbangiraffe.com/, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Permalinks 0.1.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-09-13 14:14+0800\n"
+"PO-Revision-Date: 2009-09-07 10:22+0500\n"
+"Last-Translator: Alisher <bigtaur@mail.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Uzbek\n"
+"X-Poedit-Country: UZBEKISTAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: view/admin/add.php:20
+#: view/admin/add_migrate.php:14
+msgid "Add"
+msgstr "Qo'shish"
+
+#: view/admin/migrate.php:16
+#: view/admin/posts.php:15
+msgid "Add new permalink"
+msgstr "Yangi doimiy ishorat qo'shish"
+
+#: view/admin/submenu.php:3
+msgid "Advanced"
+msgstr "Kengaytirilgan"
+
+#: view/admin/advanced.php:2
+msgid "Advanced Permalinks"
+msgstr "Kengaytirilgan doimiy ishoratlar"
+
+#: view/admin/posts.php:2
+msgid "Advanced Post Permalinks"
+msgstr "Kengaytirilgan xabar doimiy ishoratlari"
+
+#: view/admin/advanced.php:20
+msgid "Allow period in URL"
+msgstr "URLda davrni qo'llash"
+
+#: view/admin/head.php:4
+msgid "Are you sure you want to delete this permalink?"
+msgstr "Siz ushbu doimiy ishoratni o'chirishga aminmisiz?"
+
+#: view/admin/advanced.php:10
+msgid "Author pages"
+msgstr "Muallif sahifalari"
+
+#: view/admin/add.php:16
+#: view/admin/add_migrate.php:10
+msgid "Cancel"
+msgstr "Bekor qilish"
+
+#: view/admin/advanced.php:15
+msgid "Category pages"
+msgstr "Toifa sahifalari"
+
+#: view/admin/submenu.php:2
+msgid "Defaults"
+msgstr "Birlamchi sozlanmalar"
+
+#: view/admin/add.php:5
+msgid "End ID"
+msgstr "Yakuniy ID"
+
+#: view/admin/posts.php:4
+msgid "Here you can assign permalinks to a specific post or a range of posts.  Specify a start and end post ID and a <a href=\"http://codex.wordpress.org/Using_Permalinks\">permalink structure</a>."
+msgstr "Bu yerda siz alohida xabar yoki xabarlar guruhi uchun doimiy ishorat ajratishingiz mumkin. Boshlang'ich ID va yakuniy IDni va <a href=\"http://codex.wordpress.org/Using_Permalinks\">permalink structure</a>ni belgilang. "
+
+#: view/admin/advanced.php:4
+msgid "Here you can override the default permalink structures.  Note that you can still use the same <a href=\"http://codex.wordpress.org/Using_Permalinks\">permalink tags</a>.  Leave an entry blank to keep the default."
+msgstr "Bu yerda siz birlamchi doimiy ishorat tuzilishini qayta yozishingiz mumkin. Eslatma: Siz bu yerda ham <a href=\"http://codex.wordpress.org/Using_Permalinks\">doimiy ishorat teglari</a>ni ishlatishingiz mumkin."
+
+#: view/admin/submenu.php:5
+msgid "Migration"
+msgstr "Migratsiya"
+
+#: view/admin/add_migrate.php:4
+msgid "Old permalink"
+msgstr "Eski doimiy ishorat"
+
+#: view/admin/add.php:8
+msgid "Permalink"
+msgstr "Doimiy ishorat"
+
+#: view/admin/migrate.php:2
+msgid "Permalink Migration"
+msgstr "Doimiy ishorat mogratsiyasi"
+
+#: view/admin/permalinks_item.php:6
+msgid "Post"
+msgstr "Xabar"
+
+#: view/admin/submenu.php:4
+msgid "Posts"
+msgstr "Xabarlar"
+
+#: view/admin/posts.php:18
+msgid "Remember that posts not in the specified range will use the default permalink structure.  If you want to change all future posts to a new permalink structure but retain existing URLs then use 0 as the start and -1 as the end."
+msgstr "Shuni yodda tutingki, alohida guruhga mansub bo'lmagan xabarlar birlamchi doimiy ishorat strukturasidan foydalanadi. Agar siz kelasi xabarlarni yangi doimiy ishorat strukturasiga o'zgartirmoqchi va ayni vaqtda mavjud URLlarni saqlab qolmoqchi bo'lsangiz boshlang'ich sifatida 0 va yakuniy sifatida -1dan foydalaning."
+
+#: view/admin/add.php:15
+#: view/admin/add_migrate.php:9
+msgid "Save"
+msgstr "Saqlash"
+
+#: view/admin/advanced.php:27
+msgid "Save permalinks"
+msgstr "Doimiy ishoratlarni saqlash"
+
+#: view/admin/add.php:4
+msgid "Start ID"
+msgstr "Boshlang'ich ID"
+
+#: view/admin/posts.php:5
+msgid "Use <strong>ID 0</strong> to indicate the <strong>first post</strong>, and <strong>ID -1</strong> to indicate the <strong>last</strong>.  It is your responsibility to ensure that IDs do not overlap."
+msgstr "<strong>birinchi xabar</strong>ni ko'rsatish uchun <strong>ID 0</strong>dan, <strong>oxirgi xabar</strong>ni ko'rsatish uchun esa <strong>ID -1</strong>dan foydalaning. IDlarning hatto qisman bir biriga mos kelmasligini ta'minlash sizning mas'uliyatingiz."
+
+#: advanced-permalinks.php:159
+msgid "Your advanced settings have been saved"
+msgstr "Sizning kengaytirilgan sozlanmalaringiz saqlandi"
+
